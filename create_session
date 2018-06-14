@@ -1,6 +1,0 @@
-
-
-def create_session(username, password):
-    s = 'https://api.stibarc.gq/createsess.sjs?username=' + username +'&password=' + password
-    print(s)
-    return s

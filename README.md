@@ -1,2 +1,0 @@
-# vorseta.py
-# STiBaRC
